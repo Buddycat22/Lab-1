@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "language_info": {
+      "codemirror_mode": {
+        "name": "python",
+        "version": 3
+      },
+      "file_extension": ".py",
+      "mimetype": "text/x-python",
+      "name": "python",
+      "nbconvert_exporter": "python",
+      "pygments_lexer": "ipython3",
+      "version": "3.8"
+    },
+    "kernelspec": {
+      "name": "python",
+      "display_name": "Python (Pyodide)",
+      "language": "python"
+    }
+  },
+  "nbformat_minor": 4,
+  "nbformat": 4,
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "source": "# Laboratory 1- Physiological Instrumentation",
+      "metadata": {
+        "tags": []
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": "# Purpose",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "This experiment introduced the concepts and equipment that will be used in human physiology. It introduces many types of units of measurement from different concepts and shows how to convert one unit to another, the amount of pH that a liquid has based on the color range and allows students to use and observe a black box that is responsible for recording your pulse rate.",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "# Procedures",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "1-A: Demystifying the black box\n1.Observe the operation of these experiments\n2.Make a concerted effort to recognize and identify each on sight\n3.Understand the application of the “black box” instrumentation to experiments and measurements of human physiological events\n\n1-B: Units of measure \n1.Become familiar with the basic metric units of measure\n2.Learn the basic unit of each measurement\n3.Understand the significance of the prefixes of each unit\n\nLinear measurements-State the length, width and depth of the lecture text\nConvert it from millimeters to centimeters \n\nVolume measurements\nPour some water in the beaker and state the volume \nPour the water in the beaker and state the volume \nConvert it from milliliters to liters\n\nMass measurements\nState the mass of the beaker and pour some water into the beaker \nState the mass of the liquid in the beaker\nConvert it from milligrams to grams\n\npH measurements-State the pH of the liquids in containers A,B, and C\n\nDetermine your pulse rate after 15 and after 60 seconds\n",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "# Results",
+      "metadata": {}
+    },
+    {
+      "cell_type": "code",
+      "source": "Linear measurements \nLength:27.9mm 2.79cm \nWidth:21.6mm 2.16cm\nDepth:0.09mm 0.009cm \n\n27.9mm x 1cm/10mm = 2.79cm\n21.6mm x 1cm/10mm = 2.16cm\n0.09mm x 1cm/10mm = 0.009cm\n    \nVolume measurements\n\n150ml 0.15liters(l)\n90ml 0.09liters(l)\n\n150 ml x 1L/1000ml = 0.15 liters\n90ml x 1L/1000ml = 0.09 liters\n\nMass measurements\nMass of weight:0.28459mg 284.59g\nMass of liquid in beaker:0.08748mg 87.48g\n\n284.59g x 1mg/1000g = 0.28459mg \n203.13g-115.65g = 87.48g\n\npH measurements\nContainer A:6\nContainer B:7\nContainer C:9\n\nTime measurements\nPulse rate after 15 seconds:75 beats/second 1.25 beats/minute\nPulse rate after 60 seconds:1.30 beats/minute 78 beats/second/millisecond\n",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": "# Discussion",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "The linear measurements of the lecture text introduced measuring the varying length, width and depth of different objects and converting millimeters into centimeters. For the volume measurements, it introduced the concept of finding the volume of an irregular object by the placement of water involving the conversion of milliliters to liters. The mass measurements introduced the idea of using a weight balance and finding the mass of different objects with the conversion of milligrams to grams. The pH measurements are introduced to find the pH of different liquids based on the pH color scale that reveals what a liquids type of condition it is. On the final part of the lab, the time measurements with the black box showed the many different pulse rates of many participants that was broadcasted on a computer screen showing a red waveform that had peaks demonstrating each heartbeat of a certain individual. This box introduced the idea of providing insights on someones cardiovascular health along with finding someones pulse rate after a certain amount of time. The potential errors that could of come from this lab is that the math that converts one unit into another could be wrong, something could have not been measured properly or for the box with the pulse rates, either someones finger might not be fully on the scanner enough or it could be affected by if the person was recording their pulse rate while they were standing or sitting.",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "# Conclusion",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "This lab demonstrates the techniques of how to use physiological instrumentation when it comes to linear, volume, mass, pH, time and pulse measurements. The recordings of the many types of pulse rates created by the black box reveals important information about cardiovascular health to many types of participants. This lab highlights the many meaurements and concepts that are used in human physiology while showing the importance of having the right measurements and doing the correct conversions. All the results of this lab contributes a better understanding of the different units and measurements that lays the foundation of future studies in human physiology.",
+      "metadata": {}
+    }
+  ]
+}
